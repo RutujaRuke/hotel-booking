@@ -5,7 +5,7 @@ const Banner = () => {
     <div className="relative">
       {/* Banner image */}
       <img
-        src="/public/banner1.avif"
+        src="/banner1.avif"
         alt="Banner"
         className="w-full h-[250px] object-cover md:h-[350px] sm:h-[300px]" // Responsive height for mobile
       />
